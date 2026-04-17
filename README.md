@@ -11,4 +11,4 @@ O programa:
 - exibe resultados no alert e no console
 
 Print do resultado:
-! {Print do resultado} (img/print_Resultado.png)
+![Print do resultado](img/print_Resultado.png)
